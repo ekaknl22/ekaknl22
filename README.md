@@ -19,6 +19,5 @@ helloo! i'm eka. i'm a ui/ux and frontend enthusiast. <br>i am deeply passionate
 
 ### ☕ Support My Work
 
-support me here:
 [![Saweria](https://img.shields.io/badge/Saweria-Dukung_Saya-E5A93B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/ekaknl)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
